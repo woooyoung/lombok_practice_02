@@ -1,7 +1,5 @@
 server:
   port: 8080
-spring:
-  application:
-    name: lombok_practice_02
+
 
 
